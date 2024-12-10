@@ -2,6 +2,6 @@ nltk
 textblob
 pandas
 numpy
-xird
+xlrd
 streamlit
 openpyxl
