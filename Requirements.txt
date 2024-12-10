@@ -1,7 +1,0 @@
-nltk
-textblob
-pandas
-numpy
-xird
-streamlit
-openpyxl
